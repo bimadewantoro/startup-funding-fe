@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  font-family: Poppins, sanf-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .auth-form {
