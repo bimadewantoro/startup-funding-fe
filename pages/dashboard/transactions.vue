@@ -1,7 +1,3 @@
-<script setup>
-
-</script>
-
 <template>
   <div class="project-page">
     <section class="dashboard-header pt-5">
@@ -60,7 +56,3 @@
     <Footer />
   </div>
 </template>
-
-<style scoped>
-
-</style>
